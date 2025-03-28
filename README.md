@@ -15,7 +15,8 @@ HTML – Structures the webpage content
 CSS – Styles the page for a visually appealing design
 
 # How to View
-You can access the Food Order Page by visiting: [Your Live Website Link]
+You can access the Food Order Page by visiting: [ https://swetaswetha.github.io/food_order-design/]
+
 
 Thank you for checking out my project! 😊
 
